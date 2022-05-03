@@ -1,5 +1,5 @@
 :host {
-    --color-bg-default: rgb(87, 87, 87);
+    --color-bg-default: #fff;
     --color-bg-secondary: #f9f9f9;
     --color-fg-default: #333;
     --color-fg-primary: #6b82ff;
@@ -27,8 +27,8 @@
     --color-btn-secondary-disabled-border: #b5bbc4;
     --color-border-default: #ddd;
     --color-border-locked: #f9f9f9;
-    --day-width: 20px;
-    --day-height: 20px;
+    --day-width: 42px;
+    --day-height: 37px;
     --border-radius: 2px;
     --primary-color: #6b82ff;
     --secondary-color: #748194;
